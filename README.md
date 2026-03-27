@@ -41,21 +41,55 @@
 
 ## <img src="https://img.shields.io/badge/ABOUT-0d1117?style=flat-square&logo=aboutdotme&logoColor=58a6ff" height="28" alt="about" /> &nbsp;About Me
 
-```yaml
-Name:       Jackson Kalle
-Title:      Systems Architect | Security & Digital Forensics Engineer
-Company:    Kalle Group Technology
-Location:   Nigeria
-Focus:      Infrastructure-grade systems for institutional trust,
-            operational control, and digital sovereignty
+<div align="center">
 
-Experience: 13+ Years
-Industries: Enterprise • Law Enforcement • Government • Financial Services
-Impact:     Proven revenue impact up to 45%
-```
+<table>
+<tr><td>
 
-> *"Systems fail where control is weak."*
+<br/>
+
+<div align="center">
+
+**`Jackson Kalle`**
+
+<br/>
+
+![Role](https://img.shields.io/badge/Systems_Architect-58a6ff?style=flat-square&logo=diagramsdotnet&logoColor=white)
+![Role](https://img.shields.io/badge/Security_Engineer-da3633?style=flat-square&logo=hackerone&logoColor=white)
+![Role](https://img.shields.io/badge/Digital_Forensics-8957e5?style=flat-square&logo=hackthebox&logoColor=white)
+
+</div>
+
+<br/>
+
+| | |
+|:--|:--|
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=fortinet&logoColor=58a6ff" height="16" /> **Company** | Kalle Group Technology |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=googlemaps&logoColor=58a6ff" height="16" /> **Location** | Nigeria |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=target&logoColor=58a6ff" height="16" /> **Focus** | Infrastructure-grade systems for institutional trust, operational control, and digital sovereignty |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=clockify&logoColor=58a6ff" height="16" /> **Experience** | **13+ Years** — Systems Architecture & Security Engineering |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=simpleanalytics&logoColor=58a6ff" height="16" /> **Impact** | Proven revenue impact up to **45%** through automation |
+
+<br/>
+
+<div align="center">
+
+![Enterprise](https://img.shields.io/badge/Enterprise-161b22?style=flat-square&logo=databricks&logoColor=58a6ff)
+![Law Enforcement](https://img.shields.io/badge/Law_Enforcement-161b22?style=flat-square&logo=opensourcehardware&logoColor=58a6ff)
+![Government](https://img.shields.io/badge/Government-161b22?style=flat-square&logo=cloudflare&logoColor=58a6ff)
+![Financial Services](https://img.shields.io/badge/Financial_Services-161b22?style=flat-square&logo=stripe&logoColor=58a6ff)
+
+</div>
+
+<br/>
+
+</td></tr>
+</table>
+
+> <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=quotefancy&logoColor=58a6ff" height="14" /> *"Systems fail where control is weak."*
 > — Building systems that eliminate blind spots, enforce accountability, and withstand adversarial conditions.
+
+</div>
 
 <br/>
 
