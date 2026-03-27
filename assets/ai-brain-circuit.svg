@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120">
+  <defs>
+    <style>
+      @keyframes synapse{0%,100%{stroke-dashoffset:40}50%{stroke-dashoffset:0}}
+      @keyframes nodePulse{0%,100%{r:2.5;fill:#1f6feb}25%{r:3.5;fill:#58a6ff}50%{r:2.5;fill:#1f6feb}75%{r:4;fill:#58a6ff}}
+      @keyframes orbitalSpin{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+      @keyframes dataFlow{0%{opacity:0;transform:translateX(0)}50%{opacity:.8}100%{opacity:0;transform:translateX(60px)}}
+      @keyframes coreGlow{0%,100%{opacity:.3;r:12}50%{opacity:.6;r:16}}
+      @keyframes sparkle{0%,100%{opacity:0;r:.5}50%{opacity:1;r:1.5}}
+      @keyframes waveform{0%{d:path('M0,60 Q75,40 150,60 Q225,80 300,60 Q375,40 450,60 Q525,80 600,60 Q675,40 750,60 Q825,80 900,60')}50%{d:path('M0,60 Q75,75 150,60 Q225,45 300,60 Q375,75 450,60 Q525,45 600,60 Q675,75 750,60 Q825,45 900,60')}100%{d:path('M0,60 Q75,40 150,60 Q225,80 300,60 Q375,40 450,60 Q525,80 600,60 Q675,40 750,60 Q825,80 900,60')}}
+      .syn{stroke-dasharray:8 6;animation:synapse 3s linear infinite;stroke:#1f6feb;fill:none;stroke-width:.5;opacity:.2}
+      .s2{animation-delay:1s}.s3{animation-delay:2s}.s4{animation-delay:.5s}.s5{animation-delay:1.5s}
+      .np{animation:nodePulse 4s ease-in-out infinite}
+      .np2{animation-delay:1.3s}.np3{animation-delay:2.6s}.np4{animation-delay:.7s}.np5{animation-delay:2s}.np6{animation-delay:3.2s}
+      .orb{animation:orbitalSpin 12s linear infinite;transform-origin:450px 60px}
+      .orb2{animation:orbitalSpin 18s linear infinite reverse;transform-origin:450px 60px}
+      .df{animation:dataFlow 2.5s linear infinite;fill:#58a6ff}
+      .df2{animation-delay:.8s}.df3{animation-delay:1.6s}
+      .cg{animation:coreGlow 3s ease-in-out infinite;fill:#1f6feb;opacity:.3}
+      .sk{animation:sparkle 2s ease-in-out infinite;fill:#58a6ff}
+      .sk2{animation-delay:.5s}.sk3{animation-delay:1s}.sk4{animation-delay:1.5s}.sk5{animation-delay:.3s}.sk6{animation-delay:.8s}.sk7{animation-delay:1.3s}.sk8{animation-delay:1.8s}
+    </style>
+    <radialGradient id="core"><stop offset="0%" stop-color="#58a6ff" stop-opacity=".4"/><stop offset="100%" stop-color="#0d1117" stop-opacity="0"/></radialGradient>
+  </defs>
+
+  <!-- Waveform background -->
+  <path d="M0,60 Q75,40 150,60 Q225,80 300,60 Q375,40 450,60 Q525,80 600,60 Q675,40 750,60 Q825,80 900,60" fill="none" stroke="#1f6feb" stroke-width=".3" opacity=".15" style="animation:waveform 8s ease-in-out infinite"/>
+  <path d="M0,60 Q75,50 150,60 Q225,70 300,60 Q375,50 450,60 Q525,70 600,60 Q675,50 750,60 Q825,70 900,60" fill="none" stroke="#8957e5" stroke-width=".2" opacity=".1" style="animation:waveform 10s ease-in-out infinite reverse"/>
+
+  <!-- Core glow -->
+  <circle cx="450" cy="60" class="cg" r="12"/>
+
+  <!-- Circuit/synapse paths -->
+  <g>
+    <path d="M50,60 C120,20 180,40 250,60" class="syn"/>
+    <path d="M250,60 C300,30 380,90 450,60" class="syn s2"/>
+    <path d="M450,60 C520,30 580,90 650,60" class="syn s3"/>
+    <path d="M650,60 C720,20 780,40 850,60" class="syn s4"/>
+    <path d="M100,90 C200,60 300,100 400,70" class="syn s5"/>
+    <path d="M500,50 C600,80 700,30 800,70" class="syn s2"/>
+    <path d="M150,30 C250,60 350,20 450,45" class="syn s3"/>
+    <path d="M450,75 C550,100 650,40 750,90" class="syn s4"/>
+  </g>
+
+  <!-- Orbital rings -->
+  <g class="orb" opacity=".15">
+    <ellipse cx="450" cy="60" rx="180" ry="35" fill="none" stroke="#58a6ff" stroke-width=".4" stroke-dasharray="3 5"/>
+  </g>
+  <g class="orb2" opacity=".1">
+    <ellipse cx="450" cy="60" rx="280" ry="45" fill="none" stroke="#8957e5" stroke-width=".3" stroke-dasharray="2 8"/>
+  </g>
+
+  <!-- Primary network nodes -->
+  <circle cx="50" cy="60" class="np" r="2.5"/>
+  <circle cx="150" cy="35" class="np np2" r="2"/>
+  <circle cx="250" cy="60" class="np np3" r="3"/>
+  <circle cx="350" cy="45" class="np np4" r="2"/>
+  <circle cx="450" cy="60" class="np np5" r="4"/>
+  <circle cx="550" cy="75" class="np np6" r="2"/>
+  <circle cx="650" cy="60" class="np np2" r="3"/>
+  <circle cx="750" cy="50" class="np np4" r="2"/>
+  <circle cx="850" cy="60" class="np np6" r="2.5"/>
+  <!-- Secondary nodes -->
+  <circle cx="100" cy="90" class="np np3" r="1.5"/>
+  <circle cx="200" cy="50" class="np np5" r="1.5"/>
+  <circle cx="400" cy="85" class="np np2" r="1.5"/>
+  <circle cx="500" cy="40" class="np np4" r="1.5"/>
+  <circle cx="600" cy="80" class="np np6" r="1.5"/>
+  <circle cx="700" cy="35" class="np np3" r="1.5"/>
+  <circle cx="800" cy="85" class="np np5" r="1.5"/>
+
+  <!-- Data flow particles -->
+  <circle cx="250" cy="60" r="1" class="df"/>
+  <circle cx="350" cy="50" r=".8" class="df df2"/>
+  <circle cx="550" cy="70" r="1" class="df df3"/>
+  <circle cx="650" cy="55" r=".8" class="df"/>
+  <circle cx="150" cy="40" r=".7" class="df df2"/>
+  <circle cx="750" cy="65" r=".7" class="df df3"/>
+
+  <!-- Sparkles -->
+  <circle cx="120" cy="45" class="sk" r=".5"/>
+  <circle cx="280" cy="75" class="sk sk2" r=".5"/>
+  <circle cx="380" cy="35" class="sk sk3" r=".5"/>
+  <circle cx="480" cy="85" class="sk sk4" r=".5"/>
+  <circle cx="570" cy="45" class="sk sk5" r=".5"/>
+  <circle cx="670" cy="80" class="sk sk6" r=".5"/>
+  <circle cx="770" cy="40" class="sk sk7" r=".5"/>
+  <circle cx="830" cy="75" class="sk sk8" r=".5"/>
+
+  <!-- Center core node -->
+  <circle cx="450" cy="60" r="5" fill="url(#core)"/>
+  <circle cx="450" cy="60" r="3" fill="#58a6ff" opacity=".7" class="np np5"/>
+</svg>

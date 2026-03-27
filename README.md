@@ -4,12 +4,15 @@
 
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=JACKSON%20KALLE&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Systems%20Architect%20%7C%20Security%20%26%20Digital%20Forensics%20Engineer&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<!-- NEURAL NETWORK ANIMATED BANNER -->
+<img src="./assets/neural-banner.svg" width="100%" alt="Jackson Kalle — Systems Architect | Security & Digital Forensics Engineer" />
+
+<!-- AI BRAIN CIRCUIT ANIMATION -->
+<img src="./assets/ai-brain-circuit.svg" width="100%" alt="Neural Network Activity" />
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/jackkalle">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%92+Designing+Abuse-Resistant%2C+Audit-Ready+Systems;%F0%9F%8F%97%EF%B8%8F+Infrastructure-Grade+Architecture+for+Institutions;%F0%9F%9B%A1%EF%B8%8F+Zero+Trust+%7C+Auditability+by+Design+%7C+Digital+Sovereignty" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%96%B6+Designing+Abuse-Resistant%2C+Audit-Ready+Systems;%E2%96%B6+Infrastructure-Grade+Architecture+for+Institutions;%E2%96%B6+Zero+Trust+%7C+Auditability+by+Design+%7C+Digital+Sovereignty" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,9 +37,9 @@
 
 <!-- ═══════════════════════════ ABOUT SECTION ═══════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/neural-divider.svg" width="100%" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## <img src="https://img.shields.io/badge/ABOUT-0d1117?style=flat-square&logo=aboutdotme&logoColor=58a6ff" height="28" alt="about" /> &nbsp;About Me
 
 ```yaml
 Name:       Jackson Kalle
@@ -46,7 +49,7 @@ Location:   Nigeria
 Focus:      Infrastructure-grade systems for institutional trust,
             operational control, and digital sovereignty
 
-Experience: 7+ Years
+Experience: 13+ Years
 Industries: Enterprise • Law Enforcement • Government • Financial Services
 Impact:     Proven revenue impact up to 45%
 ```
@@ -58,21 +61,21 @@ Impact:     Proven revenue impact up to 45%
 
 <!-- ═════════════════════════ CORE DOMAINS ══════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/neural-divider.svg" width="100%" alt="divider"/>
 
-## 🏛️ &nbsp;Core Domains
+## <img src="https://img.shields.io/badge/CORE_DOMAINS-0d1117?style=flat-square&logo=blueprint&logoColor=58a6ff" height="28" alt="domains" /> &nbsp;Core Domains
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔧 Systems Architecture
+### <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=diagramsdotnet&logoColor=58a6ff" height="20" /> Systems Architecture
 Engineering resilient systems designed for **scale**, **failure tolerance**, and **adversarial environments**. Every component is built to operate under pressure with zero single points of failure.
 
 </td>
 <td width="50%">
 
-### 🔐 Cybersecurity & Digital Forensics
+### <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=hackerone&logoColor=58a6ff" height="20" /> Cybersecurity & Digital Forensics
 Building systems capable of **traceability**, **evidence preservation**, and **post-incident reconstruction**. From threat hunting to courtroom-ready audit trails.
 
 </td>
@@ -80,13 +83,13 @@ Building systems capable of **traceability**, **evidence preservation**, and **p
 <tr>
 <td width="50%">
 
-### ⚙️ Infrastructure Automation
+### <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=ansible&logoColor=58a6ff" height="20" /> Infrastructure Automation
 Replacing manual operations with **controlled**, **monitored**, and **auditable** system flows. Automating the critical — with human oversight where it matters.
 
 </td>
 <td width="50%">
 
-### 🏢 Institutional Systems Engineering
+### <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=fortinet&logoColor=58a6ff" height="20" /> Institutional Systems Engineering
 Developing platforms for **law enforcement**, **enterprises**, and **regulated environments** where accountability and compliance are non-negotiable.
 
 </td>
@@ -97,18 +100,18 @@ Developing platforms for **law enforcement**, **enterprises**, and **regulated e
 
 <!-- ═════════════════════ SECURITY PHILOSOPHY ═══════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/neural-divider.svg" width="100%" alt="divider"/>
 
-## 🛡️ &nbsp;Security Philosophy
+## <img src="https://img.shields.io/badge/SECURITY_PHILOSOPHY-0d1117?style=flat-square&logo=springsecurity&logoColor=58a6ff" height="28" alt="security" /> &nbsp;Security Philosophy
 
 <div align="center">
 
 | Principle | Description |
 |:---------:|:------------|
-| 🔒 **Zero Trust Architecture** | Never trust, always verify — every request, every user, every device |
-| 📋 **Auditability by Design** | Every action logged, every state change traceable, every decision accountable |
-| 🛡️ **Abuse-Resistance First** | Systems designed for misuse scenarios — built to withstand the worst case |
-| 📡 **Continuous Monitoring** | Real-time visibility into system health, threat landscape, and operational integrity |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=letsencrypt&logoColor=FFD700" height="18" /> **Zero Trust Architecture** | Never trust, always verify — every request, every user, every device |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=readthedocs&logoColor=8AC926" height="18" /> **Auditability by Design** | Every action logged, every state change traceable, every decision accountable |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=bitwarden&logoColor=FF6B6B" height="18" /> **Abuse-Resistance First** | Systems designed for misuse scenarios — built to withstand the worst case |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=datadog&logoColor=6C63FF" height="18" /> **Continuous Monitoring** | Real-time visibility into system health, threat landscape, and operational integrity |
 
 </div>
 
@@ -116,12 +119,12 @@ Developing platforms for **law enforcement**, **enterprises**, and **regulated e
 
 <!-- ═══════════════════ SIGNATURE SYSTEMS ═══════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/neural-divider.svg" width="100%" alt="divider"/>
 
-## 🏗️ &nbsp;Signature Systems
+## <img src="https://img.shields.io/badge/SIGNATURE_SYSTEMS-0d1117?style=flat-square&logo=turborepo&logoColor=58a6ff" height="28" alt="systems" /> &nbsp;Signature Systems
 
 <details open>
-<summary><h3>🧠 RIAPS — Reputation Intelligence & Authority Preservation System</h3></summary>
+<summary><h3><img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=openai&logoColor=58a6ff" height="20" /> RIAPS — Reputation Intelligence & Authority Preservation System</h3></summary>
 
 <br/>
 
@@ -131,10 +134,10 @@ Developing platforms for **law enforcement**, **enterprises**, and **regulated e
 
 | Module | Capability |
 |--------|-----------|
-| 🕸️ **Identity Graph Engine** | Relational identity maps (BVN, NIN, CAC, digital footprints) • Detects aliasing & identity overlap • Graph-based anomaly detection |
-| 📊 **Reputation Scoring Engine** | Multi-factor behavioral, transactional & historical scoring • Weighted scoring with decay functions |
-| 🎯 **Threat Intelligence Layer** | Impersonation detection • Coordinated reputation attack monitoring • Abnormal visibility spike analysis |
-| 🔍 **Audit & Forensic Layer** | Immutable logs • Timeline reconstruction • Evidence export for legal proceedings |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=neo4j&logoColor=4581C3" height="16" /> **Identity Graph Engine** | Relational identity maps (BVN, NIN, CAC, digital footprints) • Detects aliasing & identity overlap • Graph-based anomaly detection |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=grafana&logoColor=F46800" height="16" /> **Reputation Scoring Engine** | Multi-factor behavioral, transactional & historical scoring • Weighted scoring with decay functions |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=crowdstrike&logoColor=FF0000" height="16" /> **Threat Intelligence Layer** | Impersonation detection • Coordinated reputation attack monitoring • Abnormal visibility spike analysis |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=elastic&logoColor=005571" height="16" /> **Audit & Forensic Layer** | Immutable logs • Timeline reconstruction • Evidence export for legal proceedings |
 
 **Architecture:**
 
@@ -164,7 +167,7 @@ graph LR
 </details>
 
 <details>
-<summary><h3>🕵️ National Crime Index System</h3></summary>
+<summary><h3><img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=opensourcehardware&logoColor=58a6ff" height="20" /> National Crime Index System</h3></summary>
 
 <br/>
 
@@ -174,10 +177,10 @@ graph LR
 
 | Module | Capability |
 |--------|-----------|
-| 📥 **Crime Data Ingestion** | Police reports • CCTV integrations • Citizen reporting • External intelligence feeds |
-| 🧩 **Intelligence Processing** | Pattern recognition • Crime clustering • Predictive hotspot analysis |
-| 👤 **Suspect Profiling** | Identity linkage (NIN, BVN, vehicles) • Behavioral profiling • Movement tracking |
-| 📁 **Case Management** | Case lifecycle tracking • Evidence attachment • Officer accountability logs |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=apachekafka&logoColor=231F20" height="16" /> **Crime Data Ingestion** | Police reports • CCTV integrations • Citizen reporting • External intelligence feeds |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00" height="16" /> **Intelligence Processing** | Pattern recognition • Crime clustering • Predictive hotspot analysis |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=openbadges&logoColor=58a6ff" height="16" /> **Suspect Profiling** | Identity linkage (NIN, BVN, vehicles) • Behavioral profiling • Movement tracking |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=files&logoColor=4285F4" height="16" /> **Case Management** | Case lifecycle tracking • Evidence attachment • Officer accountability logs |
 
 **Architecture:**
 
@@ -211,7 +214,7 @@ graph TD
 </details>
 
 <details>
-<summary><h3>💰 Financial Audit Engine</h3></summary>
+<summary><h3><img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=stripe&logoColor=58a6ff" height="20" /> Financial Audit Engine</h3></summary>
 
 <br/>
 
@@ -221,10 +224,10 @@ graph TD
 
 | Module | Capability |
 |--------|-----------|
-| 💳 **Transaction Monitoring** | Real-time financial data ingestion • Irregular flow pattern detection |
-| 🚨 **Anomaly Detection** | Rule-based + AI-assisted detection • Risk scoring for accounts |
-| 📜 **Audit Log System** | Immutable transaction records • Time-sequenced logs • Regulatory compliance export |
-| ⚡ **Alert & Response** | Real-time alerts • Escalation workflows • Incident tracking |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=stripe&logoColor=635BFF" height="16" /> **Transaction Monitoring** | Real-time financial data ingestion • Irregular flow pattern detection |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=sentry&logoColor=FB4226" height="16" /> **Anomaly Detection** | Rule-based + AI-assisted detection • Risk scoring for accounts |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=paperlessngx&logoColor=4169E1" height="16" /> **Audit Log System** | Immutable transaction records • Time-sequenced logs • Regulatory compliance export |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=pagerduty&logoColor=06AC38" height="16" /> **Alert & Response** | Real-time alerts • Escalation workflows • Incident tracking |
 
 **Architecture:**
 
@@ -259,7 +262,7 @@ graph LR
 <!-- ════════════════════ ENTERPRISE AUTOMATION ══════════════════════════════ -->
 
 <details>
-<summary><h3>🏭 Enterprise Automation Engine</h3></summary>
+<summary><h3><img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=zapier&logoColor=58a6ff" height="20" /> Enterprise Automation Engine</h3></summary>
 
 <br/>
 
@@ -273,9 +276,9 @@ graph LR
 
 <!-- ═══════════════════ THREAT MODELING ═════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/neural-divider.svg" width="100%" alt="divider"/>
 
-## ⚔️ &nbsp;Threat Modeling & Defensive Posture
+## <img src="https://img.shields.io/badge/THREAT_MODELING-0d1117?style=flat-square&logo=hackaday&logoColor=58a6ff" height="28" alt="threats" /> &nbsp;Threat Modeling & Defensive Posture
 
 <div align="center">
 
@@ -283,16 +286,16 @@ graph LR
 
 | Attack Vector | Defensive Control |
 |:-------------:|:-----------------|
-| 💉 Data Injection / Poisoning | Input validation + Schema enforcement |
-| 🔓 Privilege Escalation | Zero-trust RBAC + MFA |
-| 📝 Log Tampering | Append-only immutable logs (WORM) |
-| 🤖 API Abuse & Scraping | Rate limiting + API keys + Anomaly detection |
-| 👤 Insider Threats | Full audit trails on every action |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=owasp&logoColor=FF6347" height="16" /> Data Injection / Poisoning | Input validation + Schema enforcement |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=keystone&logoColor=FFD700" height="16" /> Privilege Escalation | Zero-trust RBAC + MFA |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=paperlessngx&logoColor=FF6B6B" height="16" /> Log Tampering | Append-only immutable logs (WORM) |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=dependabot&logoColor=0366D6" height="16" /> API Abuse & Scraping | Rate limiting + API keys + Anomaly detection |
+| <img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=adguard&logoColor=68BC71" height="16" /> Insider Threats | Full audit trails on every action |
 
 </div>
 
 <details>
-<summary><b>🔬 STRIDE Analysis — RIAPS</b></summary>
+<summary><b><img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=metasploit&logoColor=2596CD" height="16" /> STRIDE Analysis — RIAPS</b></summary>
 
 | Threat | Mitigation |
 |--------|-----------|
@@ -306,7 +309,7 @@ graph LR
 </details>
 
 <details>
-<summary><b>🔬 MITRE ATT&CK Mapping — Crime Index</b></summary>
+<summary><b><img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=hackthebox&logoColor=9FEF00" height="16" /> MITRE ATT&CK Mapping — Crime Index</b></summary>
 
 | Phase | Threat | Detection |
 |-------|--------|-----------|
@@ -322,9 +325,9 @@ graph LR
 
 <!-- ════════════════════ TECH STACK ═════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/neural-divider.svg" width="100%" alt="divider"/>
 
-## 🛠️ &nbsp;Technology Arsenal
+## <img src="https://img.shields.io/badge/TECHNOLOGY_ARSENAL-0d1117?style=flat-square&logo=stackoverflowteams&logoColor=58a6ff" height="28" alt="tech" /> &nbsp;Technology Arsenal
 
 <div align="center">
 
@@ -341,12 +344,15 @@ graph LR
 ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 ![YARA](https://img.shields.io/badge/YARA_Rules-0d1117?style=for-the-badge&logo=virustotal&logoColor=394EFF)
 ![OWASP](https://img.shields.io/badge/OWASP-0d1117?style=for-the-badge&logo=owasp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596CD)
+![Splunk](https://img.shields.io/badge/Splunk-0d1117?style=for-the-badge&logo=splunk&logoColor=000000)
 
 #### Infrastructure & Cloud
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![GCP](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=for-the-badge&logo=terraform&logoColor=844FBA)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
 
@@ -355,6 +361,8 @@ graph LR
 ![Neo4j](https://img.shields.io/badge/Neo4j-0d1117?style=for-the-badge&logo=neo4j&logoColor=4581C3)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=005571)
+![Apache Kafka](https://img.shields.io/badge/Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=231F20)
 
 </div>
 
@@ -362,9 +370,9 @@ graph LR
 
 <!-- ════════════════════ AUTHORITY SIGNALS ══════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/neural-divider.svg" width="100%" alt="divider"/>
 
-## 📊 &nbsp;Authority Signals
+## <img src="https://img.shields.io/badge/AUTHORITY_SIGNALS-0d1117?style=flat-square&logo=googledataproc&logoColor=58a6ff" height="28" alt="authority" /> &nbsp;Authority Signals
 
 <div align="center">
 
@@ -372,7 +380,7 @@ graph LR
 <tr>
 <td align="center" width="33%">
 
-### 7+
+### 13+
 **Years of Experience**
 <br/>Systems Architecture &<br/>Security Engineering
 
@@ -400,9 +408,9 @@ graph LR
 
 <!-- ════════════════════ GITHUB STATS ═══════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/neural-divider.svg" width="100%" alt="divider"/>
 
-## 📈 &nbsp;GitHub Analytics
+## <img src="https://img.shields.io/badge/GITHUB_ANALYTICS-0d1117?style=flat-square&logo=githubactions&logoColor=58a6ff" height="28" alt="analytics" /> &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -425,9 +433,9 @@ graph LR
 
 <!-- ════════════════════ PINNED REPOS ═══════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/neural-divider.svg" width="100%" alt="divider"/>
 
-## 📌 &nbsp;Featured Repositories
+## <img src="https://img.shields.io/badge/FEATURED_REPOS-0d1117?style=flat-square&logo=gitbook&logoColor=58a6ff" height="28" alt="repos" /> &nbsp;Featured Repositories
 
 <div align="center">
 
@@ -450,12 +458,12 @@ graph LR
 
 <!-- ═══════════════════ CASE STUDIES ════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/neural-divider.svg" width="100%" alt="divider"/>
 
-## 📋 &nbsp;Case Studies
+## <img src="https://img.shields.io/badge/CASE_STUDIES-0d1117?style=flat-square&logo=readthedocs&logoColor=58a6ff" height="28" alt="cases" /> &nbsp;Case Studies
 
 <details>
-<summary><b>🧠 RIAPS — Identity Compromise & Recovery</b></summary>
+<summary><b><img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=openai&logoColor=58a6ff" height="16" /> RIAPS — Identity Compromise & Recovery</b></summary>
 <br/>
 
 | Phase | Detail |
@@ -463,12 +471,12 @@ graph LR
 | **Context** | High-profile executive experiences identity impersonation across financial and digital platforms |
 | **Problem** | Multiple fraudulent accounts • Reputation damage across digital channels • No unified tracing system |
 | **Solution** | RIAPS deployed to map identity graph, detect anomalies, flag impersonation nodes, and initiate forensic trace |
-| **Outcome** | ✅ Compromised identity clusters isolated • ✅ Fraudulent accounts flagged • ✅ Identity integrity restored • ✅ Continuous monitoring activated |
+| **Outcome** | <img src="https://img.shields.io/badge/RESOLVED-238636?style=flat-square&logoColor=white" height="14" /> Compromised clusters isolated • Fraudulent accounts flagged • Identity integrity restored • Monitoring activated |
 
 </details>
 
 <details>
-<summary><b>🕵️ Crime Index — National Police Deployment</b></summary>
+<summary><b><img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=opensourcehardware&logoColor=58a6ff" height="16" /> Crime Index — National Police Deployment</b></summary>
 <br/>
 
 | Phase | Detail |
@@ -476,12 +484,12 @@ graph LR
 | **Context** | Fragmented crime data across multiple police divisions with no central intelligence system |
 | **Problem** | Delayed investigations • Duplicate records • No cross-agency visibility |
 | **Solution** | Centralized Crime Index System with unified reporting gateway, intelligence engine, and accountability logs |
-| **Outcome** | ✅ Faster suspect identification • ✅ Reduced case duplication • ✅ Improved inter-agency coordination • ✅ Data-driven policing established |
+| **Outcome** | <img src="https://img.shields.io/badge/RESOLVED-238636?style=flat-square&logoColor=white" height="14" /> Faster identification • Reduced duplication • Improved coordination • Data-driven policing established |
 
 </details>
 
 <details>
-<summary><b>💰 Audit Engine — Bank Fraud Detection</b></summary>
+<summary><b><img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=stripe&logoColor=58a6ff" height="16" /> Audit Engine — Bank Fraud Detection</b></summary>
 <br/>
 
 | Phase | Detail |
@@ -489,7 +497,7 @@ graph LR
 | **Context** | Financial institution experiences undetected internal fraud and transaction manipulation |
 | **Problem** | Hidden transaction anomalies • Weak audit trails • Delayed fraud detection |
 | **Solution** | Audit Engine deployed with real-time monitoring, anomaly detection, and immutable audit logs |
-| **Outcome** | ✅ Fraud patterns detected early • ✅ Financial leakage reduced • ✅ Audit compliance strengthened |
+| **Outcome** | <img src="https://img.shields.io/badge/RESOLVED-238636?style=flat-square&logoColor=white" height="14" /> Fraud patterns detected early • Financial leakage reduced • Audit compliance strengthened |
 
 </details>
 
@@ -497,11 +505,11 @@ graph LR
 
 <!-- ════════════════════ VISION ═════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/neural-divider.svg" width="100%" alt="divider"/>
 
 <div align="center">
 
-## 🔭 &nbsp;Vision
+## <img src="https://img.shields.io/badge/VISION-0d1117?style=flat-square&logo=telescope&logoColor=58a6ff" height="28" alt="vision" />
 
 ### *Building systems that enable digital sovereignty, strengthen institutional trust, and operate reliably under pressure.*
 
@@ -515,6 +523,9 @@ graph LR
 
 <br/>
 
+<!-- AI BRAIN CIRCUIT FOOTER ANIMATION -->
+<img src="./assets/ai-brain-circuit.svg" width="100%" alt="Neural Activity" />
+
 <!-- SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackkalle/jackkalle/output/github-snake-dark.svg" />
@@ -527,6 +538,6 @@ graph LR
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
 
-<sub>⚡ Designed with precision by <b>Jackson Kalle</b> — Kalle Group Technology</sub>
+<sub><img src="https://img.shields.io/badge/-0d1117?style=flat-square&logo=hackthebox&logoColor=9FEF00" height="12" /> Architected with precision by <b>Jackson Kalle</b> — Kalle Group Technology</sub>
 
 </div>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 32" width="900" height="32">
+  <defs>
+    <style>
+      @keyframes flowRight { 0%{transform:translateX(-10px);opacity:0} 15%{opacity:.8} 85%{opacity:.8} 100%{transform:translateX(910px);opacity:0} }
+      @keyframes flowLeft { 0%{transform:translateX(910px);opacity:0} 15%{opacity:.6} 85%{opacity:.6} 100%{transform:translateX(-10px);opacity:0} }
+      @keyframes centerPulse { 0%,100%{r:2;opacity:.3} 50%{r:3.5;opacity:.8} }
+      @keyframes lineGlow { 0%,100%{opacity:.08} 50%{opacity:.2} }
+      @keyframes nodeFlicker { 0%,100%{opacity:.2} 30%{opacity:.7} 60%{opacity:.3} 80%{opacity:.9} }
+      .flow-r{animation:flowRight linear infinite;fill:#58a6ff}
+      .flow-l{animation:flowLeft linear infinite;fill:#8957e5}
+      .cp{animation:centerPulse 3s ease-in-out infinite;fill:#58a6ff}
+      .lg{animation:lineGlow 4s ease-in-out infinite}
+      .nf{animation:nodeFlicker 5s ease-in-out infinite}
+    </style>
+    <linearGradient id="dg" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/><stop offset="15%" stop-color="#58a6ff" stop-opacity=".15"/><stop offset="50%" stop-color="#58a6ff" stop-opacity=".35"/><stop offset="85%" stop-color="#58a6ff" stop-opacity=".15"/><stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/></linearGradient>
+    <linearGradient id="dg2" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#8957e5" stop-opacity="0"/><stop offset="30%" stop-color="#8957e5" stop-opacity=".08"/><stop offset="50%" stop-color="#8957e5" stop-opacity=".12"/><stop offset="70%" stop-color="#8957e5" stop-opacity=".08"/><stop offset="100%" stop-color="#8957e5" stop-opacity="0"/></linearGradient>
+  </defs>
+
+  <!-- Base lines -->
+  <line x1="0" y1="16" x2="900" y2="16" stroke="url(#dg)" stroke-width=".8" class="lg"/>
+  <line x1="0" y1="14" x2="900" y2="14" stroke="url(#dg2)" stroke-width=".3" class="lg" style="animation-delay:2s"/>
+  <line x1="0" y1="18" x2="900" y2="18" stroke="url(#dg2)" stroke-width=".3" class="lg" style="animation-delay:1s"/>
+
+  <!-- Static junction nodes -->
+  <circle cx="150" cy="16" r="1" fill="#1f6feb" class="nf"/>
+  <circle cx="300" cy="16" r="1.2" fill="#1f6feb" class="nf" style="animation-delay:.8s"/>
+  <circle cx="450" cy="16" r="1.5" fill="#58a6ff" class="cp"/>
+  <circle cx="600" cy="16" r="1.2" fill="#1f6feb" class="nf" style="animation-delay:1.5s"/>
+  <circle cx="750" cy="16" r="1" fill="#1f6feb" class="nf" style="animation-delay:2.3s"/>
+
+  <!-- Center pulse rings -->
+  <circle cx="450" cy="16" class="cp" r="2" style="animation-delay:1s"/>
+  <circle cx="450" cy="16" class="cp" r="2" style="animation-delay:2s"/>
+
+  <!-- Flowing particles right -->
+  <circle cx="0" cy="16" r=".8" class="flow-r" style="animation-duration:4s"/>
+  <circle cx="0" cy="15" r=".5" class="flow-r" style="animation-duration:5s;animation-delay:1.2s"/>
+  <circle cx="0" cy="17" r=".6" class="flow-r" style="animation-duration:4.5s;animation-delay:2.5s"/>
+  <circle cx="0" cy="16" r=".7" class="flow-r" style="animation-duration:5.5s;animation-delay:3.8s"/>
+
+  <!-- Flowing particles left -->
+  <circle cx="900" cy="16" r=".6" class="flow-l" style="animation-duration:5s;animation-delay:.5s"/>
+  <circle cx="900" cy="15" r=".4" class="flow-l" style="animation-duration:4.5s;animation-delay:2s"/>
+  <circle cx="900" cy="17" r=".5" class="flow-l" style="animation-duration:6s;animation-delay:3.5s"/>
+</svg>
