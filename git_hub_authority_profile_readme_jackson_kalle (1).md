@@ -110,7 +110,7 @@ This work focuses on:
 
 ## AUTHORITY SIGNALS
 
-- 7+ Years Experience
+- 13+ Years Experience
 - Multi-industry deployments
 - Proven revenue impact (up to 45%)
 
